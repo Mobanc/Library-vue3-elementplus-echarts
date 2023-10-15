@@ -4,9 +4,9 @@
 
 ## 项目预览
 
-![preview-one](.\src\assets\preview-one.gif)
+![preview-one](https://github.com/Mobanc/Library-vue3-elementplus-echarts/blob/main/src/assets/preview-one.gif)
 
-![preview-two](.\src\assets\preview-two.gif)
+![preview-two](https://github.com/Mobanc/Library-vue3-elementplus-echarts/blob/main/src/assets/preview-two.gif)
 
 ## 如何开始
 
@@ -49,11 +49,11 @@ npm run dev
 2. 找到package.json
 3. 点击调试
 
-![preview-three](.\src\assets\preview-three.png)
+![preview-three](https://github.com/Mobanc/Library-vue3-elementplus-echarts/blob/main/src/assets/preview-three.png)
 
 4. 点击dev
 
-![preview-four](.\src\assets\preview-four.png)
+![preview-four](https://github.com/Mobanc/Library-vue3-elementplus-echarts/blob/main/src/assets/preview-four.png)
 
 默认情况下，你可以在浏览器中访问 [http://localhost:3000](http://localhost:3000/) 查看项目。
 
