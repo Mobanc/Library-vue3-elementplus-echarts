@@ -49,11 +49,11 @@ npm run dev
 2. 找到package.json
 3. 点击调试
 
-![image-20231015155746174](C:\Users\Mobanc\AppData\Roaming\Typora\typora-user-images\image-20231015155746174.png)
+![preview-three](.\src\assets\preview-three.png)
 
 4. 点击dev
 
-![image-20231015160530162](C:\Users\Mobanc\AppData\Roaming\Typora\typora-user-images\image-20231015160530162.png)
+![preview-four](.\src\assets\preview-four.png)
 
 默认情况下，你可以在浏览器中访问 [http://localhost:3000](http://localhost:3000/) 查看项目。
 
