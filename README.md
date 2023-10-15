@@ -4,9 +4,9 @@
 
 ## 项目预览
 
-![GIF 2023-10-15 16-26-37](C:\Users\Mobanc\Desktop\GIF 2023-10-15 16-26-37.gif)
+![preview-one](.\src\assets\preview-one.gif)
 
-![GIF 2023-10-15 16-35-25](C:\Users\Mobanc\Desktop\GIF 2023-10-15 16-35-25.gif)
+![preview-two](.\src\assets\preview-two.gif)
 
 ## 如何开始
 
